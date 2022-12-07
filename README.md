@@ -2,7 +2,7 @@
 - 👀 I’m interested in design.
 - 🌱 I’m currently learning ui/ux design and front-end developtment
 - 💞️ I’m looking to collaborate on design work.
-- 📫 To reach me you may sent us an email.
+- 📫 How to reach me? You may contact me on my email alcafloes@gmail.com.
 
 <!---
 alcafloes/alcafloes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
